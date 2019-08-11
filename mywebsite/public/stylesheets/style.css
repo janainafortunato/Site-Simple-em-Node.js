@@ -1,0 +1,23 @@
+.bg-3 { 
+      background-color: #ffffff; 
+      cor: # 555555; 
+  } 
+  .container-fluid { 
+      padding-top: 70px; 
+      fundo de enchimento: 70px; 
+  } 
+  .navbar { 
+      padding-top: 15px; 
+      preenchimento-fundo: 15px; 
+      fronteira: 0; 
+      border-radius: 0; 
+      margem-fundo: 0; 
+      tamanho da fonte: 12px; 
+      espaçamento entre letras: 5px; 
+  } 
+  .navbar-nav li a: hover { 
+      cor: # 1abc9c! importante; 
+  } 
+.active> a { 
+    cor: # 1abc9c! importante ;; 
+  }
